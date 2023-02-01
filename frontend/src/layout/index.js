@@ -217,7 +217,7 @@ const LoggedInLayout = ({ children }) => {
             noWrap
             className={classes.title}
           >
-            SocialAtendimento Multi Redes
+            AltZAP
           </Typography>
           {user.id && <NotificationsPopOver />}
 
